@@ -10,5 +10,7 @@
 
 <h2>que pedo esta es la practica de git</h2>
 
+<script src="js/cript.js"></script>
+
 </body>
 </html>
